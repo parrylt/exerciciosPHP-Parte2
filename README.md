@@ -1,6 +1,6 @@
 # exerciciosPHP-Parte2
-parte 2 dos exercícios para iniciar aprendizado em php. usei o xampp também<br><br>
-
+parte 2 dos exercícios para iniciar aprendizado em php. usei o xampp também. Aula de Web II da Etec de Guarulhos.
+<br><br>
 <div align="center">
   <h3>Segunda parte dos exercícios para aprender PHP</h3>
   <img src="ImagensEx/1.png"><img src="ImagensEx/2.png">
